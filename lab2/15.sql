@@ -1,0 +1,6 @@
+USE testdb
+GO
+
+SELECT ID, AVG(Price) AS 'Average Price' FROM WINE W GROUP BY ID HAVING AVG(Price) > (SELECT AVG(Price) AS MPrice FROM WINE)
+
+GO
