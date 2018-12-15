@@ -1,0 +1,6 @@
+USE testdb
+GO
+
+SELECT ALL Title, Price FROM  WINE WHERE Price BETWEEN 5 AND 10
+
+GO
