@@ -1,0 +1,100 @@
+1|Nicosia 2013 Vulkà Bianco  (Etna)|White Blend|12|1|1
+2|Quinta dos Avidagos 2011 Avidagos Red (Douro)|Portuguese Red|15|2|2
+3|Rainstorm 2013 Pinot Gris (Willamette Valley)|Pinot Gris|14|3|3
+4|St. Julian 2013 Reserve Late Harvest Riesling (Lake Michigan Shore)|Riesling|13|3|4
+5|Sweet Cheeks 2012 Vintner's Reserve Wild Child Block Pinot Noir (Willamette Valley)|Pinot Noir|65|3|5
+6|Tandem 2011 Ars In Vitro Tempranillo-Merlot (Navarra)|Tempranillo-Merlot|15|4|6
+7|Terre di Giurfo 2013 Belsito Frappato (Vittoria)|Frappato|16|1|7
+8|Trimbach 2012 Gewurztraminer (Alsace)|Gewürztraminer|24|5|8
+9|Heinz Eifel 2013 Shine Gewürztraminer (Rheinhessen)|Gewürztraminer|12|6|9
+10|Jean-Baptiste Adam 2012 Les Natures Pinot Gris (Alsace)|Pinot Gris|27|5|10
+11|Kirkland Signature 2011 Mountain Cuvée Cabernet Sauvignon (Napa Valley)|Cabernet Sauvignon|19|3|11
+12|Leon Beyer 2012 Gewurztraminer (Alsace)|Gewürztraminer|30|5|12
+13|Louis M. Martini 2012 Cabernet Sauvignon (Alexander Valley)|Cabernet Sauvignon|34|3|13
+14|Masseria Setteporte 2012 Rosso  (Etna)|Nerello Mascalese|17|1|14
+15|Mirassou 2012 Chardonnay (Central Coast)|Chardonnay|12|3|15
+16|Richard Böcking 2013 Devon Riesling (Mosel)|Riesling|24|6|16
+17|Felix Lavaque 2010 Felix Malbec (Cafayate)|Malbec|30|7|17
+18|Gaucho Andino 2011 Winemaker Selection Malbec (Mendoza)|Malbec|13|7|18
+19|Pradorey 2010 Vendimia Seleccionada Finca Valdelayegua Single Vineyard Crianza  (Ribera del Duero)|Tempranillo Blend|28|4|19
+20|Quiévremont 2012 Meritage (Virginia)|Meritage|32|3|20
+21|Quiévremont 2012 Vin de Maison Red (Virginia)|Red Blend|23|3|21
+22|Acrobat 2013 Pinot Noir (Oregon)|Pinot Noir|20|3|22
+23|Baglio di Pianetto 2007 Ficiligno White (Sicilia)|White Blend|19|1|23
+24|Bianchi 2011 Signature Selection Merlot (Paso Robles)|Merlot|22|3|24
+25|Canicattì 2009 Aynat Nero d'Avola (Sicilia)|Nero d'Avola|35|1|25
+26|Castello di Amorosa 2011 King Ridge Vineyard Pinot Noir (Sonoma Coast)|Pinot Noir|69|3|26
+27|Stemmari 2013 Dalila White (Terre Siciliane)|White Blend|13|1|27
+28|Stemmari 2013 Nero d'Avola (Terre Siciliane)|Nero d'Avola|10|1|28
+29|Terre di Giurfo 2011 Mascaria Barricato  (Cerasuolo di Vittoria)|Red Blend|17|1|29
+30|Clarksburg Wine Company 2010 Chenin Blanc (Clarksburg)|Chenin Blanc|16|3|30
+31|Domaine de la Madone 2012 Nouveau  (Beaujolais-Villages)|Gamay|15|5|31
+32|Duca di Salaparuta 2010 Calanìca Nero d'Avola-Merlot Red (Sicilia)|Red Blend|18|1|32
+33|Duca di Salaparuta 2011 Calanìca Grillo-Viognier White (Sicilia)|White Blend|13|1|33
+34|Envolve 2010 Puma Springs Vineyard Red (Dry Creek Valley)|Red Blend|50|3|34
+35|Envolve 2011 Sauvignon Blanc (Sonoma Valley)|Sauvignon Blanc|20|3|35
+36|Erath 2010 Hyland Pinot Noir (McMinnville)|Pinot Noir|50|3|36
+37|Estampa 2011 Estate Viognier-Chardonnay (Colchagua Valley)|Viognier-Chardonnay|15|8|37
+38|Feudi del Pisciotto 2010 Missoni Cabernet Sauvignon (Sicilia)|Cabernet Sauvignon|21|1|38
+39|Feudi di San Marzano 2011 I Tratturi Primitivo (Puglia)|Primitivo|11|1|39
+40|Feudo di Santa Tresa 2011 Purato Made With Organic Grapes Nero d'Avola (Sicilia)|Nero d'Avola|12|1|40
+41|Feudo Montoni 2011 Catarratto (Sicilia)|Catarratto|17|1|41
+42|Hawkins Cellars 2009 Pinot Noir (Willamette Valley)|Pinot Noir|22|3|42
+43|Henry Fessy 2012 Nouveau  (Beaujolais)|Gamay|9|5|43
+44|Robert Hall 2011 Sauvignon Blanc (Paso Robles)|Sauvignon Blanc|14|3|44
+45|Sundance 2011 Merlot (Maule Valley)|Merlot|9|8|45
+46|Tarara 2010 #SocialSecret Red (Virginia)|Red Blend|40|3|46
+47|Tasca d'Almerita 2011 Sallier de la Tour Inzolia (Sicilia)|Inzolia|13|1|47
+48|The White Knight 2011 Riesling (Lake County)|Riesling|13|3|48
+49|Trump 2011 Sauvignon Blanc (Monticello)|Sauvignon Blanc|16|3|49
+50|Vignerons de Bel Air 2011 Eté Indien  (Brouilly)|Gamay|14|5|50
+51|Viticultori Associati Canicatti 2008 Scialo Red (Sicilia)|Red Blend|14|1|51
+52|Casa Silva 2008 Gran Reserva Petit Verdot (Colchagua Valley)|Petit Verdot|22|8|52
+53|Cantine di Dolianova 2010 Dolia  (Monica di Sardegna)|Monica|14|1|53
+54|Château de Sours 2011 La Fleur d'Amélie  (Bordeaux Blanc)|Bordeaux-style White Blend|15|5|54
+55|Corvo 2010 Rosso Red (Sicilia)|Red Blend|15|1|55
+56|RustRidge 2010 Estate Bottled Chardonnay (Napa Valley)|Chardonnay|30|3|56
+57|Souverain 2010 Chardonnay (North Coast)|Chardonnay|14|3|57
+58|Tasca d'Almerita 2011 Sallier de la Tour Grillo (Sicilia)|Grillo|13|1|58
+59|Tres Palacios 2011 Reserve Pinot Noir (Maipo Valley)|Pinot Noir|13|8|59
+60|Mellisoni 2014 Malbec (Columbia Valley (WA))|Malbec|55|3|60
+61|Okapi 2013 Estate Cabernet Sauvignon (Napa Valley)|Cabernet Sauvignon|100|3|61
+62|Podere dal Nespoli 2015 Prugneto Sangiovese (Romagna)|Sangiovese|17|1|62
+63|Ram 2014 Alder Ridge Vineyard Cabernet Franc (Columbia Valley (WA))|Cabernet Franc|25|3|63
+64|Roland Champion NV Brut Rosé  (Champagne)|Champagne Blend|58|5|64
+65|Sevtap 2015 Golden Horn Sauvignon Blanc (Santa Ynez Valley)|Sauvignon Blanc|26|3|65
+66|Simonnet-Febvre 2015  Chablis|Chardonnay|24|5|66
+67|Vignerons des Terres Secrètes 2015  Mâcon-Milly Lamartine|Chardonnay|15|5|67
+68|Basel Cellars 2013 Inspired Red (Columbia Valley (WA))|Bordeaux-style Red Blend|46|3|68
+69|Cocobon 2014 Red (California)|Red Blend|12|3|69
+70|Collet NV Brut Rosé  (Champagne)|Champagne Blend|55|5|70
+71|Drumheller 2014 Chardonnay (Columbia Valley (WA))|Chardonnay|12|3|71
+72|Eco Terreno 2013 Old Vine Cabernet Sauvignon (Alexander Valley)|Cabernet Sauvignon|40|3|72
+73|Grifalco 2013 Daginestra  (Aglianico del Vulture)|Aglianico|32|1|73
+74|Hindsight 2013 Bella Vetta Vineyard Cabernet Sauvignon (Howell Mountain)|Cabernet Sauvignon|75|3|74
+75|Hindsight 2012 Estate Grown Petite Sirah (Calistoga)|Petite Sirah|55|3|75
+76|Mulvane Wine Co. 2013 The Cypher Red (Napa Valley)|Bordeaux-style Red Blend|75|3|76
+77|Schmitt Söhne 2015 Riesling (Rheinhessen)|Riesling|9|6|77
+78|Yalumba 2016 Made With Organic Grapes Chardonnay (South Australia)|Chardonnay|18|9|78
+79|Z'IVO 2015 Rosé of Pinot Noir (Eola-Amity Hills)|Pinot Noir|25|3|79
+80|Adega Cooperativa do Cartaxo 2014 Bridão Touriga Nacional (Tejo)|Touriga Nacional|16|2|80
+81|Aresti 2014 Special Release Reserva Carmenère (Rapel Valley)|Carmenère|12|8|81
+82|Spyro 2014 Albariño (Rías Baixas)|Albariño|16|4|82
+83|Lionel Osmin & Cie 2016 La Réserve Petit Manseng (Vin de France)|Petit Manseng|11|5|83
+84|Mitolo 2016 Jester Sangiovese Rosé (McLaren Vale)|Rosé|20|9|84
+85|Napa Cellars 2014 Classic Zinfandel (Napa Valley)|Zinfandel|24|3|85
+86|P.J. Valckenberg 2015 Undone Dry Riesling (Rheinhessen)|Riesling|10|6|86
+87|Palencia 2016 Albariño (Ancient Lakes)|Albariño|20|3|87
+88|Passaggio 2014 Blau Vineyards Merlot (Knights Valley)|Merlot|55|3|88
+89|Poggio Alloro 2014 Le Mandorle Riserva  (Vernaccia di San Gimignano)|Vernaccia|29|1|89
+90|Fattoria Sardi 2015 Rosato (Toscana)|Rosato|19|1|90
+91|Ferrari-Carano 2014 Siena Red (Sonoma County)|Red Blend|23|3|91
+92|Folie à Deux 2015 Pinot Gris (Sonoma Coast)|Pinot Gris|18|3|92
+93|Franciscan 2013 Magnificat Meritage (Napa Valley)|Meritage|55|3|93
+94|Fuchs 2015 Grüner Veltliner (Burgenland)|Grüner Veltliner|12|10|94
+95|Gård 2014 Grand Klasse Reserve Lawrence Vineyards Viognier (Columbia Valley (WA))|Viognier|22|3|95
+96|Henry Fessy 2015  Juliénas|Gamay|20|5|96
+97|Henry Fessy 2015  Régnié|Gamay|18|5|97
+98|Heron Hill 2015 Ingle Vineyard Riesling (Finger Lakes)|Riesling|20|3|98
+99|Serpaia di Endrizzi 2010 Dono Riserva  (Morellino di Scansano)|Sangiovese|30|1|99
+100|Soquel Vineyards 2013 Intreccio Library Selection Red (Napa Valley)|Bordeaux-style Red Blend|75|3|100
