@@ -1,0 +1,14 @@
+USE testdb
+GO
+
+CREATE PROCEDURE AverageCountryPrice
+AS
+BEGIN
+	SELECT Country, AVG(Price) FROM WINE JOIN COUNTRY ON WINE.ID = COUNTRY.ID GROUP BY Country
+END
+GO
+
+EXEC AverageCountryPrice
+
+--DROP PROCEDURE AverageCountryPrice
+GO
