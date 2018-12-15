@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<customer customerID="12345">
+    <name>Fred</name>
+    <address>Somewhere Street</address>
+    <city>Sometown</city>
+    <state>XY</state>
+    <postalCode>1235</postalCode>
+</customer>
+</root>

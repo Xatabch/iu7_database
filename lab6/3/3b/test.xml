@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE partList [
+    <!ELEMENT partList (part+)>
+    <!ELEMENT part (name, size, color)>
+    <!ATTLIST part partID ID #REQUIRED>
+    <!ELEMENT name (#PCDATA)>
+    <!ATTLIST name name_id ID #REQUIRED>
+    <!ELEMENT size (#PCDATA)>
+    <!ELEMENT color (#PCDATA)>
+]>
+
+<partList>
+    <part partID="part17">
+        <name name_id="grom">Grommets</name>
+        <size>2 inch</size>
+        <color>Red</color>
+    </part>
+    <part partID="part22">
+        <name name_id="wid">Widgets</name>
+        <size>3 inch</size>
+        <color>Blue</color>
+    </part>
+</partList>
