@@ -1,0 +1,7 @@
+<!ELEMENT Wines (W*))>
+<!ELEMENT W>
+
+<!ATTLIST W
+	Title (#PCDATA)
+	Variety(#PCDATA)
+	Prive (#PCDATA)>
