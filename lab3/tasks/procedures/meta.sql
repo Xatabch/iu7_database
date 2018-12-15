@@ -1,0 +1,16 @@
+USE testdb
+GO
+
+CREATE PROCEDURE MyTables
+WITH EXECUTE AS OWNER  
+AS  
+BEGIN  
+SELECT * FROM sys.all_objects WHERE type='U'  
+END
+GO
+
+EXEC MyTables
+GO
+
+DROP PROCEDURE MyTables
+GO
