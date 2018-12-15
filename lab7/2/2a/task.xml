@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<WINE ID="1" Title="Nicosia 2013 Vulk? Bianco  (Etna)" Variety="White Blend" Price="12" Country_id="1" Description_id="1"/>
+<WINE ID="2" Title="Quinta dos Avidagos 2011 Avidagos Red (Douro)" Variety="Portuguese Red" Price="15" Country_id="2" Description_id="2"/>
+<WINE ID="3" Title="Rainstorm 2013 Pinot Gris (Willamette Valley)" Variety="Pinot Gris" Price="14" Country_id="3" Description_id="3"/>
+<WINE ID="4" Title="St. Julian 2013 Reserve Late Harvest Riesling (Lake Michigan Shore)" Variety="Riesling" Price="13" Country_id="3" Description_id="4"/>
+<WINE ID="5" Title="Sweet Cheeks 2012 Vintner's Reserve Wild Child Block Pinot Noir (Willamette Valley)" Variety="Pinot Noir" Price="65" Country_id="3" Description_id="5"/>
+<WINE ID="6" Title="Tandem 2011 Ars In Vitro Tempranillo-Merlot (Navarra)" Variety="Tempranillo-Merlot" Price="15" Country_id="4" Description_id="6"/>
+<WINE ID="7" Title="Terre di Giurfo 2013 Belsito Frappato (Vittoria)" Variety="Frappato" Price="16" Country_id="1" Description_id="7"/>
+<WINE ID="8" Title="Trimbach 2012 Gewurztraminer (Alsace)" Variety="Gew?rztraminer" Price="24" Country_id="5" Description_id="8"/>
+<WINE ID="9" Title="Heinz Eifel 2013 Shine Gew?rztraminer (Rheinhessen)" Variety="Gew?rztraminer" Price="12" Country_id="6" Description_id="9"/>
+<WINE ID="10" Title="Jean-Baptiste Adam 2012 Les Natures Pinot Gris (Alsace)" Variety="Pinot Gris" Price="27" Country_id="5" Description_id="10"/>
+<WINE ID="11" Title="Kirkland Signature 2011 Mountain Cuv?e Cabernet Sauvignon (Napa Valley)" Variety="Cabernet Sauvignon" Price="19" Country_id="3" Description_id="11"/>
+<WINE ID="12" Title="Leon Beyer 2012 Gewurztraminer (Alsace)" Variety="Gew?rztraminer" Price="30" Country_id="5" Description_id="12"/>
+<WINE ID="13" Title="Louis M. Martini 2012 Cabernet Sauvignon (Alexander Valley)" Variety="Cabernet Sauvignon" Price="34" Country_id="3" Description_id="13"/>
+<WINE ID="14" Title="Masseria Setteporte 2012 Rosso  (Etna)" Variety="Nerello Mascalese" Price="17" Country_id="1" Description_id="14"/>
+<WINE ID="15" Title="Mirassou 2012 Chardonnay (Central Coast)" Variety="Chardonnay" Price="12" Country_id="3" Description_id="15"/>
+<WINE ID="16" Title="Richard B?cking 2013 Devon Riesling (Mosel)" Variety="Riesling" Price="24" Country_id="6" Description_id="16"/>
+<WINE ID="17" Title="Felix Lavaque 2010 Felix Malbec (Cafayate)" Variety="Malbec" Price="30" Country_id="7" Description_id="17"/>
+<WINE ID="18" Title="Gaucho Andino 2011 Winemaker Selection Malbec (Mendoza)" Variety="Malbec" Price="13" Country_id="7" Description_id="18"/>
+<WINE ID="19" Title="Pradorey 2010 Vendimia Seleccionada Finca Valdelayegua Single Vineyard Crianza  (Ribera del Duero)" Variety="Tempranillo Blend" Price="28" Country_id="4" Description_id="19"/>
+<WINE ID="20" Title="Qui?vremont 2012 Meritage (Virginia)" Variety="Meritage" Price="32" Country_id="3" Description_id="20"/>
+<WINE ID="21" Title="Qui?vremont 2012 Vin de Maison Red (Virginia)" Variety="Red Blend" Price="23" Country_id="3" Description_id="21"/>
+<WINE ID="22" Title="Acrobat 2013 Pinot Noir (Oregon)" Variety="Pinot Noir" Price="20" Country_id="3" Description_id="22"/>
+<WINE ID="23" Title="Baglio di Pianetto 2007 Ficiligno White (Sicilia)" Variety="White Blend" Price="19" Country_id="1" Description_id="23"/>
+<WINE ID="24" Title="Bianchi 2011 Signature Selection Merlot (Paso Robles)" Variety="Merlot" Price="22" Country_id="3" Description_id="24"/>
+<WINE ID="25" Title="Canicatt? 2009 Aynat Nero d'Avola (Sicilia)" Variety="Nero d'Avola" Price="35" Country_id="1" Description_id="25"/>
+<WINE ID="26" Title="Castello di Amorosa 2011 King Ridge Vineyard Pinot Noir (Sonoma Coast)" Variety="Pinot Noir" Price="69" Country_id="3" Description_id="26"/>
+<WINE ID="27" Title="Stemmari 2013 Dalila White (Terre Siciliane)" Variety="White Blend" Price="13" Country_id="1" Description_id="27"/>
+<WINE ID="28" Title="Stemmari 2013 Nero d'Avola (Terre Siciliane)" Variety="Nero d'Avola" Price="10" Country_id="1" Description_id="28"/>
+<WINE ID="29" Title="Terre di Giurfo 2011 Mascaria Barricato  (Cerasuolo di Vittoria)" Variety="Red Blend" Price="17" Country_id="1" Description_id="29"/>
+<WINE ID="30" Title="Clarksburg Wine Company 2010 Chenin Blanc (Clarksburg)" Variety="Chenin Blanc" Price="16" Country_id="3" Description_id="30"/>
+<WINE ID="31" Title="Domaine de la Madone 2012 Nouveau  (Beaujolais-Villages)" Variety="Gamay" Price="15" Country_id="5" Description_id="31"/>
+<WINE ID="32" Title="Duca di Salaparuta 2010 Calan?ca Nero d'Avola-Merlot Red (Sicilia)" Variety="Red Blend" Price="18" Country_id="1" Description_id="32"/>
+<WINE ID="33" Title="Duca di Salaparuta 2011 Calan?ca Grillo-Viognier White (Sicilia)" Variety="White Blend" Price="13" Country_id="1" Description_id="33"/>
+<WINE ID="34" Title="Envolve 2010 Puma Springs Vineyard Red (Dry Creek Valley)" Variety="Red Blend" Price="50" Country_id="3" Description_id="34"/>
+<WINE ID="35" Title="Envolve 2011 Sauvignon Blanc (Sonoma Valley)" Variety="Sauvignon Blanc" Price="20" Country_id="3" Description_id="35"/>
+<WINE ID="36" Title="Erath 2010 Hyland Pinot Noir (McMinnville)" Variety="Pinot Noir" Price="50" Country_id="3" Description_id="36"/>
+<WINE ID="37" Title="Estampa 2011 Estate Viognier-Chardonnay (Colchagua Valley)" Variety="Viognier-Chardonnay" Price="15" Country_id="8" Description_id="37"/>
+<WINE ID="38" Title="Feudi del Pisciotto 2010 Missoni Cabernet Sauvignon (Sicilia)" Variety="Cabernet Sauvignon" Price="21" Country_id="1" Description_id="38"/>
+<WINE ID="39" Title="Feudi di San Marzano 2011 I Tratturi Primitivo (Puglia)" Variety="Primitivo" Price="11" Country_id="1" Description_id="39"/>
+<WINE ID="40" Title="Feudo di Santa Tresa 2011 Purato Made With Organic Grapes Nero d'Avola (Sicilia)" Variety="Nero d'Avola" Price="12" Country_id="1" Description_id="40"/>
+<WINE ID="41" Title="Feudo Montoni 2011 Catarratto (Sicilia)" Variety="Catarratto" Price="17" Country_id="1" Description_id="41"/>
+<WINE ID="42" Title="Hawkins Cellars 2009 Pinot Noir (Willamette Valley)" Variety="Pinot Noir" Price="22" Country_id="3" Description_id="42"/>
+<WINE ID="43" Title="Henry Fessy 2012 Nouveau  (Beaujolais)" Variety="Gamay" Price="9" Country_id="5" Description_id="43"/>
+<WINE ID="44" Title="Robert Hall 2011 Sauvignon Blanc (Paso Robles)" Variety="Sauvignon Blanc" Price="14" Country_id="3" Description_id="44"/>
+<WINE ID="45" Title="Sundance 2011 Merlot (Maule Valley)" Variety="Merlot" Price="9" Country_id="8" Description_id="45"/>
+<WINE ID="46" Title="Tarara 2010 #SocialSecret Red (Virginia)" Variety="Red Blend" Price="40" Country_id="3" Description_id="46"/>
+<WINE ID="47" Title="Tasca d'Almerita 2011 Sallier de la Tour Inzolia (Sicilia)" Variety="Inzolia" Price="13" Country_id="1" Description_id="47"/>
+<WINE ID="48" Title="The White Knight 2011 Riesling (Lake County)" Variety="Riesling" Price="13" Country_id="3" Description_id="48"/>
+<WINE ID="49" Title="Trump 2011 Sauvignon Blanc (Monticello)" Variety="Sauvignon Blanc" Price="16" Country_id="3" Description_id="49"/>
+<WINE ID="50" Title="Vignerons de Bel Air 2011 Et? Indien  (Brouilly)" Variety="Gamay" Price="14" Country_id="5" Description_id="50"/>
+<WINE ID="51" Title="Viticultori Associati Canicatti 2008 Scialo Red (Sicilia)" Variety="Red Blend" Price="14" Country_id="1" Description_id="51"/>
+<WINE ID="52" Title="Casa Silva 2008 Gran Reserva Petit Verdot (Colchagua Valley)" Variety="Petit Verdot" Price="22" Country_id="8" Description_id="52"/>
+<WINE ID="53" Title="Cantine di Dolianova 2010 Dolia  (Monica di Sardegna)" Variety="Monica" Price="14" Country_id="1" Description_id="53"/>
+<WINE ID="54" Title="Ch?teau de Sours 2011 La Fleur d'Am?lie  (Bordeaux Blanc)" Variety="Bordeaux-style White Blend" Price="15" Country_id="5" Description_id="54"/>
+<WINE ID="55" Title="Corvo 2010 Rosso Red (Sicilia)" Variety="Red Blend" Price="15" Country_id="1" Description_id="55"/>
+<WINE ID="56" Title="RustRidge 2010 Estate Bottled Chardonnay (Napa Valley)" Variety="Chardonnay" Price="30" Country_id="3" Description_id="56"/>
+<WINE ID="57" Title="Souverain 2010 Chardonnay (North Coast)" Variety="Chardonnay" Price="14" Country_id="3" Description_id="57"/>
+<WINE ID="58" Title="Tasca d'Almerita 2011 Sallier de la Tour Grillo (Sicilia)" Variety="Grillo" Price="13" Country_id="1" Description_id="58"/>
+<WINE ID="59" Title="Tres Palacios 2011 Reserve Pinot Noir (Maipo Valley)" Variety="Pinot Noir" Price="13" Country_id="8" Description_id="59"/>
+<WINE ID="60" Title="Mellisoni 2014 Malbec (Columbia Valley (WA))" Variety="Malbec" Price="55" Country_id="3" Description_id="60"/>
+<WINE ID="61" Title="Okapi 2013 Estate Cabernet Sauvignon (Napa Valley)" Variety="Cabernet Sauvignon" Price="100" Country_id="3" Description_id="61"/>
+<WINE ID="62" Title="Podere dal Nespoli 2015 Prugneto Sangiovese (Romagna)" Variety="Sangiovese" Price="17" Country_id="1" Description_id="62"/>
+<WINE ID="63" Title="Ram 2014 Alder Ridge Vineyard Cabernet Franc (Columbia Valley (WA))" Variety="Cabernet Franc" Price="25" Country_id="3" Description_id="63"/>
+<WINE ID="64" Title="Roland Champion NV Brut Ros?  (Champagne)" Variety="Champagne Blend" Price="58" Country_id="5" Description_id="64"/>
+<WINE ID="65" Title="Sevtap 2015 Golden Horn Sauvignon Blanc (Santa Ynez Valley)" Variety="Sauvignon Blanc" Price="26" Country_id="3" Description_id="65"/>
+<WINE ID="66" Title="Simonnet-Febvre 2015  Chablis" Variety="Chardonnay" Price="24" Country_id="5" Description_id="66"/>
+<WINE ID="67" Title="Vignerons des Terres Secr?tes 2015  M?con-Milly Lamartine" Variety="Chardonnay" Price="15" Country_id="5" Description_id="67"/>
+<WINE ID="68" Title="Basel Cellars 2013 Inspired Red (Columbia Valley (WA))" Variety="Bordeaux-style Red Blend" Price="46" Country_id="3" Description_id="68"/>
+<WINE ID="69" Title="Cocobon 2014 Red (California)" Variety="Red Blend" Price="12" Country_id="3" Description_id="69"/>
+<WINE ID="70" Title="Collet NV Brut Ros?  (Champagne)" Variety="Champagne Blend" Price="55" Country_id="5" Description_id="70"/>
+<WINE ID="71" Title="Drumheller 2014 Chardonnay (Columbia Valley (WA))" Variety="Chardonnay" Price="12" Country_id="3" Description_id="71"/>
+<WINE ID="72" Title="Eco Terreno 2013 Old Vine Cabernet Sauvignon (Alexander Valley)" Variety="Cabernet Sauvignon" Price="40" Country_id="3" Description_id="72"/>
+<WINE ID="73" Title="Grifalco 2013 Daginestra  (Aglianico del Vulture)" Variety="Aglianico" Price="32" Country_id="1" Description_id="73"/>
+<WINE ID="74" Title="Hindsight 2013 Bella Vetta Vineyard Cabernet Sauvignon (Howell Mountain)" Variety="Cabernet Sauvignon" Price="75" Country_id="3" Description_id="74"/>
+<WINE ID="75" Title="Hindsight 2012 Estate Grown Petite Sirah (Calistoga)" Variety="Petite Sirah" Price="55" Country_id="3" Description_id="75"/>
+<WINE ID="76" Title="Mulvane Wine Co. 2013 The Cypher Red (Napa Valley)" Variety="Bordeaux-style Red Blend" Price="75" Country_id="3" Description_id="76"/>
+<WINE ID="77" Title="Schmitt S?hne 2015 Riesling (Rheinhessen)" Variety="Riesling" Price="9" Country_id="6" Description_id="77"/>
+<WINE ID="78" Title="Yalumba 2016 Made With Organic Grapes Chardonnay (South Australia)" Variety="Chardonnay" Price="18" Country_id="9" Description_id="78"/>
+<WINE ID="79" Title="Z'IVO 2015 Ros? of Pinot Noir (Eola-Amity Hills)" Variety="Pinot Noir" Price="25" Country_id="3" Description_id="79"/>
+<WINE ID="80" Title="Adega Cooperativa do Cartaxo 2014 Brid?o Touriga Nacional (Tejo)" Variety="Touriga Nacional" Price="16" Country_id="2" Description_id="80"/>
+<WINE ID="81" Title="Aresti 2014 Special Release Reserva Carmen?re (Rapel Valley)" Variety="Carmen?re" Price="12" Country_id="8" Description_id="81"/>
+<WINE ID="82" Title="Spyro 2014 Albari?o (R?as Baixas)" Variety="Albari?o" Price="16" Country_id="4" Description_id="82"/>
+<WINE ID="83" Title="Lionel Osmin &amp; Cie 2016 La R?serve Petit Manseng (Vin de France)" Variety="Petit Manseng" Price="11" Country_id="5" Description_id="83"/>
+<WINE ID="84" Title="Mitolo 2016 Jester Sangiovese Ros? (McLaren Vale)" Variety="Ros?" Price="20" Country_id="9" Description_id="84"/>
+<WINE ID="85" Title="Napa Cellars 2014 Classic Zinfandel (Napa Valley)" Variety="Zinfandel" Price="24" Country_id="3" Description_id="85"/>
+<WINE ID="86" Title="P.J. Valckenberg 2015 Undone Dry Riesling (Rheinhessen)" Variety="Riesling" Price="10" Country_id="6" Description_id="86"/>
+<WINE ID="87" Title="Palencia 2016 Albari?o (Ancient Lakes)" Variety="Albari?o" Price="20" Country_id="3" Description_id="87"/>
+<WINE ID="88" Title="Passaggio 2014 Blau Vineyards Merlot (Knights Valley)" Variety="Merlot" Price="55" Country_id="3" Description_id="88"/>
+<WINE ID="89" Title="Poggio Alloro 2014 Le Mandorle Riserva  (Vernaccia di San Gimignano)" Variety="Vernaccia" Price="29" Country_id="1" Description_id="89"/>
+<WINE ID="90" Title="Fattoria Sardi 2015 Rosato (Toscana)" Variety="Rosato" Price="19" Country_id="1" Description_id="90"/>
+<WINE ID="91" Title="Ferrari-Carano 2014 Siena Red (Sonoma County)" Variety="Red Blend" Price="23" Country_id="3" Description_id="91"/>
+<WINE ID="92" Title="Folie ? Deux 2015 Pinot Gris (Sonoma Coast)" Variety="Pinot Gris" Price="18" Country_id="3" Description_id="92"/>
+<WINE ID="93" Title="Franciscan 2013 Magnificat Meritage (Napa Valley)" Variety="Meritage" Price="55" Country_id="3" Description_id="93"/>
+<WINE ID="94" Title="Fuchs 2015 Gr?ner Veltliner (Burgenland)" Variety="Gr?ner Veltliner" Price="12" Country_id="10" Description_id="94"/>
+<WINE ID="95" Title="G?rd 2014 Grand Klasse Reserve Lawrence Vineyards Viognier (Columbia Valley (WA))" Variety="Viognier" Price="22" Country_id="3" Description_id="95"/>
+<WINE ID="96" Title="Henry Fessy 2015  Juli?nas" Variety="Gamay" Price="20" Country_id="5" Description_id="96"/>
+<WINE ID="97" Title="Henry Fessy 2015  R?gni?" Variety="Gamay" Price="18" Country_id="5" Description_id="97"/>
+<WINE ID="98" Title="Heron Hill 2015 Ingle Vineyard Riesling (Finger Lakes)" Variety="Riesling" Price="20" Country_id="3" Description_id="98"/>
+<WINE ID="99" Title="Serpaia di Endrizzi 2010 Dono Riserva  (Morellino di Scansano)" Variety="Sangiovese" Price="30" Country_id="1" Description_id="99"/>
+<WINE ID="100" Title="Soquel Vineyards 2013 Intreccio Library Selection Red (Napa Valley)" Variety="Bordeaux-style Red Blend" Price="75" Country_id="3" Description_id="100"/>
+</root>

@@ -1,0 +1,503 @@
+
+<root>
+<row ID="1">
+  <Title>Nicosia 2013 Vulk? Bianco  (Etna)</Title>
+  <Variety>White Blend</Variety>
+  <Price>12</Price>
+</row>
+<row ID="2">
+  <Title>Quinta dos Avidagos 2011 Avidagos Red (Douro)</Title>
+  <Variety>Portuguese Red</Variety>
+  <Price>15</Price>
+</row>
+<row ID="3">
+  <Title>Rainstorm 2013 Pinot Gris (Willamette Valley)</Title>
+  <Variety>Pinot Gris</Variety>
+  <Price>14</Price>
+</row>
+<row ID="4">
+  <Title>St. Julian 2013 Reserve Late Harvest Riesling (Lake Michigan Shore)</Title>
+  <Variety>Riesling</Variety>
+  <Price>13</Price>
+</row>
+<row ID="5">
+  <Title>Sweet Cheeks 2012 Vintner's Reserve Wild Child Block Pinot Noir (Willamette Valley)</Title>
+  <Variety>Pinot Noir</Variety>
+  <Price>65</Price>
+</row>
+<row ID="6">
+  <Title>Tandem 2011 Ars In Vitro Tempranillo-Merlot (Navarra)</Title>
+  <Variety>Tempranillo-Merlot</Variety>
+  <Price>15</Price>
+</row>
+<row ID="7">
+  <Title>Terre di Giurfo 2013 Belsito Frappato (Vittoria)</Title>
+  <Variety>Frappato</Variety>
+  <Price>16</Price>
+</row>
+<row ID="8">
+  <Title>Trimbach 2012 Gewurztraminer (Alsace)</Title>
+  <Variety>Gew?rztraminer</Variety>
+  <Price>24</Price>
+</row>
+<row ID="9">
+  <Title>Heinz Eifel 2013 Shine Gew?rztraminer (Rheinhessen)</Title>
+  <Variety>Gew?rztraminer</Variety>
+  <Price>12</Price>
+</row>
+<row ID="10">
+  <Title>Jean-Baptiste Adam 2012 Les Natures Pinot Gris (Alsace)</Title>
+  <Variety>Pinot Gris</Variety>
+  <Price>27</Price>
+</row>
+<row ID="11">
+  <Title>Kirkland Signature 2011 Mountain Cuv?e Cabernet Sauvignon (Napa Valley)</Title>
+  <Variety>Cabernet Sauvignon</Variety>
+  <Price>19</Price>
+</row>
+<row ID="12">
+  <Title>Leon Beyer 2012 Gewurztraminer (Alsace)</Title>
+  <Variety>Gew?rztraminer</Variety>
+  <Price>30</Price>
+</row>
+<row ID="13">
+  <Title>Louis M. Martini 2012 Cabernet Sauvignon (Alexander Valley)</Title>
+  <Variety>Cabernet Sauvignon</Variety>
+  <Price>34</Price>
+</row>
+<row ID="14">
+  <Title>Masseria Setteporte 2012 Rosso  (Etna)</Title>
+  <Variety>Nerello Mascalese</Variety>
+  <Price>17</Price>
+</row>
+<row ID="15">
+  <Title>Mirassou 2012 Chardonnay (Central Coast)</Title>
+  <Variety>Chardonnay</Variety>
+  <Price>12</Price>
+</row>
+<row ID="16">
+  <Title>Richard B?cking 2013 Devon Riesling (Mosel)</Title>
+  <Variety>Riesling</Variety>
+  <Price>24</Price>
+</row>
+<row ID="17">
+  <Title>Felix Lavaque 2010 Felix Malbec (Cafayate)</Title>
+  <Variety>Malbec</Variety>
+  <Price>30</Price>
+</row>
+<row ID="18">
+  <Title>Gaucho Andino 2011 Winemaker Selection Malbec (Mendoza)</Title>
+  <Variety>Malbec</Variety>
+  <Price>13</Price>
+</row>
+<row ID="19">
+  <Title>Pradorey 2010 Vendimia Seleccionada Finca Valdelayegua Single Vineyard Crianza  (Ribera del Duero)</Title>
+  <Variety>Tempranillo Blend</Variety>
+  <Price>28</Price>
+</row>
+<row ID="20">
+  <Title>Qui?vremont 2012 Meritage (Virginia)</Title>
+  <Variety>Meritage</Variety>
+  <Price>32</Price>
+</row>
+<row ID="21">
+  <Title>Qui?vremont 2012 Vin de Maison Red (Virginia)</Title>
+  <Variety>Red Blend</Variety>
+  <Price>23</Price>
+</row>
+<row ID="22">
+  <Title>Acrobat 2013 Pinot Noir (Oregon)</Title>
+  <Variety>Pinot Noir</Variety>
+  <Price>20</Price>
+</row>
+<row ID="23">
+  <Title>Baglio di Pianetto 2007 Ficiligno White (Sicilia)</Title>
+  <Variety>White Blend</Variety>
+  <Price>19</Price>
+</row>
+<row ID="24">
+  <Title>Bianchi 2011 Signature Selection Merlot (Paso Robles)</Title>
+  <Variety>Merlot</Variety>
+  <Price>22</Price>
+</row>
+<row ID="25">
+  <Title>Canicatt? 2009 Aynat Nero d'Avola (Sicilia)</Title>
+  <Variety>Nero d'Avola</Variety>
+  <Price>35</Price>
+</row>
+<row ID="26">
+  <Title>Castello di Amorosa 2011 King Ridge Vineyard Pinot Noir (Sonoma Coast)</Title>
+  <Variety>Pinot Noir</Variety>
+  <Price>69</Price>
+</row>
+<row ID="27">
+  <Title>Stemmari 2013 Dalila White (Terre Siciliane)</Title>
+  <Variety>White Blend</Variety>
+  <Price>13</Price>
+</row>
+<row ID="28">
+  <Title>Stemmari 2013 Nero d'Avola (Terre Siciliane)</Title>
+  <Variety>Nero d'Avola</Variety>
+  <Price>10</Price>
+</row>
+<row ID="29">
+  <Title>Terre di Giurfo 2011 Mascaria Barricato  (Cerasuolo di Vittoria)</Title>
+  <Variety>Red Blend</Variety>
+  <Price>17</Price>
+</row>
+<row ID="30">
+  <Title>Clarksburg Wine Company 2010 Chenin Blanc (Clarksburg)</Title>
+  <Variety>Chenin Blanc</Variety>
+  <Price>16</Price>
+</row>
+<row ID="31">
+  <Title>Domaine de la Madone 2012 Nouveau  (Beaujolais-Villages)</Title>
+  <Variety>Gamay</Variety>
+  <Price>15</Price>
+</row>
+<row ID="32">
+  <Title>Duca di Salaparuta 2010 Calan?ca Nero d'Avola-Merlot Red (Sicilia)</Title>
+  <Variety>Red Blend</Variety>
+  <Price>18</Price>
+</row>
+<row ID="33">
+  <Title>Duca di Salaparuta 2011 Calan?ca Grillo-Viognier White (Sicilia)</Title>
+  <Variety>White Blend</Variety>
+  <Price>13</Price>
+</row>
+<row ID="34">
+  <Title>Envolve 2010 Puma Springs Vineyard Red (Dry Creek Valley)</Title>
+  <Variety>Red Blend</Variety>
+  <Price>50</Price>
+</row>
+<row ID="35">
+  <Title>Envolve 2011 Sauvignon Blanc (Sonoma Valley)</Title>
+  <Variety>Sauvignon Blanc</Variety>
+  <Price>20</Price>
+</row>
+<row ID="36">
+  <Title>Erath 2010 Hyland Pinot Noir (McMinnville)</Title>
+  <Variety>Pinot Noir</Variety>
+  <Price>50</Price>
+</row>
+<row ID="37">
+  <Title>Estampa 2011 Estate Viognier-Chardonnay (Colchagua Valley)</Title>
+  <Variety>Viognier-Chardonnay</Variety>
+  <Price>15</Price>
+</row>
+<row ID="38">
+  <Title>Feudi del Pisciotto 2010 Missoni Cabernet Sauvignon (Sicilia)</Title>
+  <Variety>Cabernet Sauvignon</Variety>
+  <Price>21</Price>
+</row>
+<row ID="39">
+  <Title>Feudi di San Marzano 2011 I Tratturi Primitivo (Puglia)</Title>
+  <Variety>Primitivo</Variety>
+  <Price>11</Price>
+</row>
+<row ID="40">
+  <Title>Feudo di Santa Tresa 2011 Purato Made With Organic Grapes Nero d'Avola (Sicilia)</Title>
+  <Variety>Nero d'Avola</Variety>
+  <Price>12</Price>
+</row>
+<row ID="41">
+  <Title>Feudo Montoni 2011 Catarratto (Sicilia)</Title>
+  <Variety>Catarratto</Variety>
+  <Price>17</Price>
+</row>
+<row ID="42">
+  <Title>Hawkins Cellars 2009 Pinot Noir (Willamette Valley)</Title>
+  <Variety>Pinot Noir</Variety>
+  <Price>22</Price>
+</row>
+<row ID="43">
+  <Title>Henry Fessy 2012 Nouveau  (Beaujolais)</Title>
+  <Variety>Gamay</Variety>
+  <Price>9</Price>
+</row>
+<row ID="44">
+  <Title>Robert Hall 2011 Sauvignon Blanc (Paso Robles)</Title>
+  <Variety>Sauvignon Blanc</Variety>
+  <Price>14</Price>
+</row>
+<row ID="45">
+  <Title>Sundance 2011 Merlot (Maule Valley)</Title>
+  <Variety>Merlot</Variety>
+  <Price>9</Price>
+</row>
+<row ID="46">
+  <Title>Tarara 2010 #SocialSecret Red (Virginia)</Title>
+  <Variety>Red Blend</Variety>
+  <Price>40</Price>
+</row>
+<row ID="47">
+  <Title>Tasca d'Almerita 2011 Sallier de la Tour Inzolia (Sicilia)</Title>
+  <Variety>Inzolia</Variety>
+  <Price>13</Price>
+</row>
+<row ID="48">
+  <Title>The White Knight 2011 Riesling (Lake County)</Title>
+  <Variety>Riesling</Variety>
+  <Price>13</Price>
+</row>
+<row ID="49">
+  <Title>Trump 2011 Sauvignon Blanc (Monticello)</Title>
+  <Variety>Sauvignon Blanc</Variety>
+  <Price>16</Price>
+</row>
+<row ID="50">
+  <Title>Vignerons de Bel Air 2011 Et? Indien  (Brouilly)</Title>
+  <Variety>Gamay</Variety>
+  <Price>14</Price>
+</row>
+<row ID="51">
+  <Title>Viticultori Associati Canicatti 2008 Scialo Red (Sicilia)</Title>
+  <Variety>Red Blend</Variety>
+  <Price>14</Price>
+</row>
+<row ID="52">
+  <Title>Casa Silva 2008 Gran Reserva Petit Verdot (Colchagua Valley)</Title>
+  <Variety>Petit Verdot</Variety>
+  <Price>22</Price>
+</row>
+<row ID="53">
+  <Title>Cantine di Dolianova 2010 Dolia  (Monica di Sardegna)</Title>
+  <Variety>Monica</Variety>
+  <Price>14</Price>
+</row>
+<row ID="54">
+  <Title>Ch?teau de Sours 2011 La Fleur d'Am?lie  (Bordeaux Blanc)</Title>
+  <Variety>Bordeaux-style White Blend</Variety>
+  <Price>15</Price>
+</row>
+<row ID="55">
+  <Title>Corvo 2010 Rosso Red (Sicilia)</Title>
+  <Variety>Red Blend</Variety>
+  <Price>15</Price>
+</row>
+<row ID="56">
+  <Title>RustRidge 2010 Estate Bottled Chardonnay (Napa Valley)</Title>
+  <Variety>Chardonnay</Variety>
+  <Price>30</Price>
+</row>
+<row ID="57">
+  <Title>Souverain 2010 Chardonnay (North Coast)</Title>
+  <Variety>Chardonnay</Variety>
+  <Price>14</Price>
+</row>
+<row ID="58">
+  <Title>Tasca d'Almerita 2011 Sallier de la Tour Grillo (Sicilia)</Title>
+  <Variety>Grillo</Variety>
+  <Price>13</Price>
+</row>
+<row ID="59">
+  <Title>Tres Palacios 2011 Reserve Pinot Noir (Maipo Valley)</Title>
+  <Variety>Pinot Noir</Variety>
+  <Price>13</Price>
+</row>
+<row ID="60">
+  <Title>Mellisoni 2014 Malbec (Columbia Valley (WA))</Title>
+  <Variety>Malbec</Variety>
+  <Price>55</Price>
+</row>
+<row ID="61">
+  <Title>Okapi 2013 Estate Cabernet Sauvignon (Napa Valley)</Title>
+  <Variety>Cabernet Sauvignon</Variety>
+  <Price>100</Price>
+</row>
+<row ID="62">
+  <Title>Podere dal Nespoli 2015 Prugneto Sangiovese (Romagna)</Title>
+  <Variety>Sangiovese</Variety>
+  <Price>17</Price>
+</row>
+<row ID="63">
+  <Title>Ram 2014 Alder Ridge Vineyard Cabernet Franc (Columbia Valley (WA))</Title>
+  <Variety>Cabernet Franc</Variety>
+  <Price>25</Price>
+</row>
+<row ID="64">
+  <Title>Roland Champion NV Brut Ros?  (Champagne)</Title>
+  <Variety>Champagne Blend</Variety>
+  <Price>58</Price>
+</row>
+<row ID="65">
+  <Title>Sevtap 2015 Golden Horn Sauvignon Blanc (Santa Ynez Valley)</Title>
+  <Variety>Sauvignon Blanc</Variety>
+  <Price>26</Price>
+</row>
+<row ID="66">
+  <Title>Simonnet-Febvre 2015  Chablis</Title>
+  <Variety>Chardonnay</Variety>
+  <Price>24</Price>
+</row>
+<row ID="67">
+  <Title>Vignerons des Terres Secr?tes 2015  M?con-Milly Lamartine</Title>
+  <Variety>Chardonnay</Variety>
+  <Price>15</Price>
+</row>
+<row ID="68">
+  <Title>Basel Cellars 2013 Inspired Red (Columbia Valley (WA))</Title>
+  <Variety>Bordeaux-style Red Blend</Variety>
+  <Price>46</Price>
+</row>
+<row ID="69">
+  <Title>Cocobon 2014 Red (California)</Title>
+  <Variety>Red Blend</Variety>
+  <Price>12</Price>
+</row>
+<row ID="70">
+  <Title>Collet NV Brut Ros?  (Champagne)</Title>
+  <Variety>Champagne Blend</Variety>
+  <Price>55</Price>
+</row>
+<row ID="71">
+  <Title>Drumheller 2014 Chardonnay (Columbia Valley (WA))</Title>
+  <Variety>Chardonnay</Variety>
+  <Price>12</Price>
+</row>
+<row ID="72">
+  <Title>Eco Terreno 2013 Old Vine Cabernet Sauvignon (Alexander Valley)</Title>
+  <Variety>Cabernet Sauvignon</Variety>
+  <Price>40</Price>
+</row>
+<row ID="73">
+  <Title>Grifalco 2013 Daginestra  (Aglianico del Vulture)</Title>
+  <Variety>Aglianico</Variety>
+  <Price>32</Price>
+</row>
+<row ID="74">
+  <Title>Hindsight 2013 Bella Vetta Vineyard Cabernet Sauvignon (Howell Mountain)</Title>
+  <Variety>Cabernet Sauvignon</Variety>
+  <Price>75</Price>
+</row>
+<row ID="75">
+  <Title>Hindsight 2012 Estate Grown Petite Sirah (Calistoga)</Title>
+  <Variety>Petite Sirah</Variety>
+  <Price>55</Price>
+</row>
+<row ID="76">
+  <Title>Mulvane Wine Co. 2013 The Cypher Red (Napa Valley)</Title>
+  <Variety>Bordeaux-style Red Blend</Variety>
+  <Price>75</Price>
+</row>
+<row ID="77">
+  <Title>Schmitt S?hne 2015 Riesling (Rheinhessen)</Title>
+  <Variety>Riesling</Variety>
+  <Price>9</Price>
+</row>
+<row ID="78">
+  <Title>Yalumba 2016 Made With Organic Grapes Chardonnay (South Australia)</Title>
+  <Variety>Chardonnay</Variety>
+  <Price>18</Price>
+</row>
+<row ID="79">
+  <Title>Z'IVO 2015 Ros? of Pinot Noir (Eola-Amity Hills)</Title>
+  <Variety>Pinot Noir</Variety>
+  <Price>25</Price>
+</row>
+<row ID="80">
+  <Title>Adega Cooperativa do Cartaxo 2014 Brid?o Touriga Nacional (Tejo)</Title>
+  <Variety>Touriga Nacional</Variety>
+  <Price>16</Price>
+</row>
+<row ID="81">
+  <Title>Aresti 2014 Special Release Reserva Carmen?re (Rapel Valley)</Title>
+  <Variety>Carmen?re</Variety>
+  <Price>12</Price>
+</row>
+<row ID="82">
+  <Title>Spyro 2014 Albari?o (R?as Baixas)</Title>
+  <Variety>Albari?o</Variety>
+  <Price>16</Price>
+</row>
+<row ID="83">
+  <Title>Lionel Osmin &amp; Cie 2016 La R?serve Petit Manseng (Vin de France)</Title>
+  <Variety>Petit Manseng</Variety>
+  <Price>11</Price>
+</row>
+<row ID="84">
+  <Title>Mitolo 2016 Jester Sangiovese Ros? (McLaren Vale)</Title>
+  <Variety>Ros?</Variety>
+  <Price>20</Price>
+</row>
+<row ID="85">
+  <Title>Napa Cellars 2014 Classic Zinfandel (Napa Valley)</Title>
+  <Variety>Zinfandel</Variety>
+  <Price>24</Price>
+</row>
+<row ID="86">
+  <Title>P.J. Valckenberg 2015 Undone Dry Riesling (Rheinhessen)</Title>
+  <Variety>Riesling</Variety>
+  <Price>10</Price>
+</row>
+<row ID="87">
+  <Title>Palencia 2016 Albari?o (Ancient Lakes)</Title>
+  <Variety>Albari?o</Variety>
+  <Price>20</Price>
+</row>
+<row ID="88">
+  <Title>Passaggio 2014 Blau Vineyards Merlot (Knights Valley)</Title>
+  <Variety>Merlot</Variety>
+  <Price>55</Price>
+</row>
+<row ID="89">
+  <Title>Poggio Alloro 2014 Le Mandorle Riserva  (Vernaccia di San Gimignano)</Title>
+  <Variety>Vernaccia</Variety>
+  <Price>29</Price>
+</row>
+<row ID="90">
+  <Title>Fattoria Sardi 2015 Rosato (Toscana)</Title>
+  <Variety>Rosato</Variety>
+  <Price>19</Price>
+</row>
+<row ID="91">
+  <Title>Ferrari-Carano 2014 Siena Red (Sonoma County)</Title>
+  <Variety>Red Blend</Variety>
+  <Price>23</Price>
+</row>
+<row ID="92">
+  <Title>Folie ? Deux 2015 Pinot Gris (Sonoma Coast)</Title>
+  <Variety>Pinot Gris</Variety>
+  <Price>18</Price>
+</row>
+<row ID="93">
+  <Title>Franciscan 2013 Magnificat Meritage (Napa Valley)</Title>
+  <Variety>Meritage</Variety>
+  <Price>55</Price>
+</row>
+<row ID="94">
+  <Title>Fuchs 2015 Gr?ner Veltliner (Burgenland)</Title>
+  <Variety>Gr?ner Veltliner</Variety>
+  <Price>12</Price>
+</row>
+<row ID="95">
+  <Title>G?rd 2014 Grand Klasse Reserve Lawrence Vineyards Viognier (Columbia Valley (WA))</Title>
+  <Variety>Viognier</Variety>
+  <Price>22</Price>
+</row>
+<row ID="96">
+  <Title>Henry Fessy 2015  Juli?nas</Title>
+  <Variety>Gamay</Variety>
+  <Price>20</Price>
+</row>
+<row ID="97">
+  <Title>Henry Fessy 2015  R?gni?</Title>
+  <Variety>Gamay</Variety>
+  <Price>18</Price>
+</row>
+<row ID="98">
+  <Title>Heron Hill 2015 Ingle Vineyard Riesling (Finger Lakes)</Title>
+  <Variety>Riesling</Variety>
+  <Price>20</Price>
+</row>
+<row ID="99">
+  <Title>Serpaia di Endrizzi 2010 Dono Riserva  (Morellino di Scansano)</Title>
+  <Variety>Sangiovese</Variety>
+  <Price>30</Price>
+</row>
+<row ID="100">
+  <Title>Soquel Vineyards 2013 Intreccio Library Selection Red (Napa Valley)</Title>
+  <Variety>Bordeaux-style Red Blend</Variety>
+  <Price>75</Price>
+</row>
+</root>
